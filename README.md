@@ -1,5 +1,7 @@
 # Binomial Probabilities
 
+[![CircleCI](https://circleci.com/gh/ben-ng/binomial-probability/tree/master.svg?style=svg)](https://circleci.com/gh/ben-ng/binomial-probability/tree/master)
+
 ## Usage
 
 ```js
