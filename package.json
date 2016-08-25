@@ -1,0 +1,28 @@
+{
+  "name": "binomial-probability",
+  "version": "1.0.0",
+  "description": "Binomial probability calculator. Also does cumulative probability.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ben-ng/binomial-probability.git"
+  },
+  "keywords": [
+    "binomial",
+    "probability",
+    "statistics",
+    "distribution"
+  ],
+  "author": "Ben Ng <me@benng.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ben-ng/binomial-probability/issues"
+  },
+  "homepage": "https://github.com/ben-ng/binomial-probability#readme",
+  "devDependencies": {
+    "tap": "^6.3.2"
+  }
+}
