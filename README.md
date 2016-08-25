@@ -5,6 +5,8 @@
 ## Usage
 
 ```js
+const binomialProbability = require('binomial-probability')
+
 // What is the probability of x successes in n trials?
 binomialProbability(trials, successes, probability_of_success)
 
